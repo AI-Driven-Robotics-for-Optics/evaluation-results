@@ -26,7 +26,7 @@ The evaluation covers four optical configurations:
   - With user requests
   - Without user requests
 
-### 3. **Llama-3 (Meta) Fine-tuned (Ours)**
+### 3. **Llama-3.1 8B (Meta) Fine-tuned (Ours)**
 - **Custom fine-tuned model** (checkpoint-282000 from the last stage and session of the training)
   - With user requests
   - Without user requests
