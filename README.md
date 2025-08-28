@@ -6,10 +6,10 @@ This repository contains evaluation results for various AI models' performance i
 
 The evaluation covers four optical configurations:
 
-1. **Michelson Interferometer** - Basic two-arm interferometer
-2. **Mach-Zehnder Interferometer** - Two-beam interferometer with beam splitters
-3. **Hong-Ou-Mandel Interferometer** - Quantum interference setup
-4. **4f Optical System** - Imaging system with lenses and aperture
+1. **Michelson Interferometer**
+2. **Mach-Zehnder Interferometer**
+3. **Hong-Ou-Mandel Interferometer**
+4. **4f Optical System**
 
 ## Models and Approaches Tested
 
