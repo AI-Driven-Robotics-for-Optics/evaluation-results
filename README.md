@@ -13,7 +13,7 @@ The evaluation covers four optical configurations:
 
 ## Models and Approaches Tested
 
-### 1. **GPT-4o (OpenAI)**
+### 1. **GPT-4o (OpenAI) [included in an earlier version of the manuscript]**
 - **Zero-shot**: Direct generation without examples
   - With user requests
   - Without user requests
